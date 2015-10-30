@@ -6,3 +6,8 @@ node_js:
   - 'iojs'
 before_install:
   - npm install -g npm@latest
+  
+  
+  asfasf
+  
+  asdf
